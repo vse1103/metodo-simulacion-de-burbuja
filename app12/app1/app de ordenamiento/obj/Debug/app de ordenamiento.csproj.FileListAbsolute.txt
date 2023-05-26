@@ -1,0 +1,11 @@
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.exe.config
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.exe
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.pdb
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.csproj.AssemblyReference.cache
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app_de_ordenamiento.Form1.resources
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app_de_ordenamiento.Properties.Resources.resources
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.csproj.GenerateResource.cache
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.exe
+C:\Users\tecno\OneDrive\Escritorio\tecnologo en videojuegos\profe edwin\tercer trimestre\trabajo 4\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.pdb
